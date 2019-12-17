@@ -4,4 +4,5 @@ The code includes:
 - Redux
 - ES6
 - date of creation in relative format (e.g. "1 day ago")
+- simple React-navigation
 - WebView
